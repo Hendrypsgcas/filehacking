@@ -1,0 +1,1 @@
+Unlike traditional data centres, Fog devices are geographically distributed over heterogeneous platforms, spanning multiple management domains. Cisco is interested in innovative proposals that facilitate service mobility across platforms, and technologies that preserve end-user and content security and privacy across domains

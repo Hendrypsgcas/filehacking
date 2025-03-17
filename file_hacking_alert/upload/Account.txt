@@ -1,0 +1,2 @@
+Bank name:canara
+account number:6755800644664
